@@ -1,0 +1,5 @@
+This is a fork of ELMAH (Error Logging Modules and Handlers) which can be found here:
+http://code.google.com/p/elmah
+
+This fork adds a VS2010 project and builds under .Net 4.0.
+The VS2010 build has also had SQLite and Oracle support removed.
